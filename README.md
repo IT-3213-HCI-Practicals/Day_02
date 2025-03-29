@@ -1,5 +1,5 @@
 
-# Axure Calculator Prototype
+# Axure Calculator 
 
 ## 📌 Project Overview
 This is a **calculator prototype** designed using **Axure** as part of an **HCI (Human-Computer Interaction)** project. Currently, it **only supports number input**, and other function buttons are not yet interactive.
@@ -12,7 +12,7 @@ This is a **calculator prototype** designed using **Axure** as part of an **HCI 
 ## 📂 Installation & Usage
 1. **Clone this repository**  
    ```sh
-   git clone https://github.com/YOUR_USERNAME/axure-calculator.git
+   git clone https://github.com/IT-3213-HCI-Practicals/Day_02
 2. Open the Axure file (.rp file) in Axure RP.
 
 3. Click Preview in Axure to test the prototype.
